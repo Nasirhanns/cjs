@@ -1,22 +1,22 @@
-global.owner = ['62895331520602']  
-global.mods = ['62895331520602'] 
-global.prems = ['62895331520602']
-global.nameowner = 'Tio'
-global.numberowner = '62895331520602' 
-global.mail = 'support@tioprm.eu.org' 
-global.gc = 'https://chat.whatsapp.com/CP5mV2D9IO730HpBgmkuyi'
-global.instagram = 'https://instagram.com/prm2.0'
-global.wm = '© Tio'
+global.owner = ['6282353035070']  
+global.mods = ['6282353035070'] 
+global.prems = ['6282353035070']
+global.nameowner = 'Nasirxml'
+global.numberowner = '6282353035070' 
+global.mail = '-' 
+global.gc = 'https://chat.whatsapp.com/GUyznfN2Hu47pQOQq0fG3Z'
+global.instagram = 'https://instagram.com/_sirrrr'
+global.wm = '© Nasirxml'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made With'
 global.author = 'Bot WhatsApp'
 global.autobio = false // Set true untuk mengaktifkan autobio
-global.maxwarn = '2' // Peringatan maksimum
+global.maxwarn = '5' // Peringatan maksimum
 
 //INI WAJIB DI ISI!//
-global.btc = 'YOUR_APIKEY_HERE' 
+global.btc = 'lanagalau' 
 //Daftar terlebih dahulu https://api.botcahx.eu.org
 
 //INI OPTIONAL BOLEH DI ISI BOLEH JUGA ENGGA//
